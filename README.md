@@ -5,5 +5,10 @@ very easy to use, you just need to download the html & css files and make sure t
 Open the index.html file in your browser and your website is ready!
 ### 🔴 Live Demo:
 [Click here](https://youtu.be/IAxDV5G0Asw?si=xTa2Rq92GCQSjwo6) to check out live demo!
-### 🖼 Screenshots:
-![Screenshots](http://ife-calis.blogspot.com/2024/04/dark-night-animated-theme-website.html)
+
+
+
+## Author
+_Ifechukwu C. Anyika_
+
+<footer><p>&copy; 2024 Calis Website. All right reserved.</p></footer>
